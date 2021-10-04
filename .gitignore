@@ -4,6 +4,12 @@
 # Log file
 *.log
 
+#idea files
+.idea
+spring_hibernate.iml
+
+.gitignore
+
 # BlueJ files
 *.ctxt
 
